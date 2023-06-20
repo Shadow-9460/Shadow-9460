@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ps6737233@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z7iej9pPiu7l0w4Mxgq4SjI1-NFnjdXN/view?usp=sharing](https://drive.google.com/file/d/1Z7iej9pPiu7l0w4Mxgq4SjI1-NFnjdXN/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince-kumar-singh-919977181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-kumar-singh-919977181" height="30" width="40" /></a>
